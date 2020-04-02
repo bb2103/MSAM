@@ -1,5 +1,5 @@
 # MSAM
-MSAM: Multi-Scenario Adaptive Model for CTR Prediction in E-commerce
+MSAM: Multi-Scenario Adaptive Model for CTR Prediction via Multi-task Learning in E-commerce
 
 # Status
 Code Is Ready.
